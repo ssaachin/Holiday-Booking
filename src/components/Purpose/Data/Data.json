@@ -1,0 +1,40 @@
+
+
+[
+    {
+      "id": "1",
+      "text": "Hotel Barcelona",
+      "description": "Beautiful Hotel located by the Beach in the West Coast of Spain",
+      "image": "./falmouthHotel.png",
+      "images": "./hotelAlicante.png",
+      "img": "./dolomitesHotel.png",
+      "weather": " Weather - Hot",
+      "country": " Country - Spain",
+      "covid" : " Covid Colour - Red Zone",
+      "cost" : "£88 per night"
+    },
+    {
+      "id": "2",
+      "text": "Hotel Alicante",
+      "description": "Beautiful Hotel located by the Beach in the south east Coast of Spain",
+      "image": "./hotelAlicante.png",
+      "images": "./dolomitesHotel.png",
+      "img": "./falmouthHotel.png",
+      "weather": " Weather - Hot",
+      "country": " Country - Spain",
+      "covid" : " Covid Colour - Amber Zone",
+      "cost" : "£59 per night"
+    },
+    {
+        "id": "3",
+        "text": "Hotel Zermatt",
+        "description": "Beautiful Hotel located by the Mountains in the southern Switzerland",
+        "image": "./dolomitesHotel.png",
+        "images": "./falmouthHotel.png",
+        "img": "./hotelAlicante.png",
+        "weather": " Weather - Cold",
+        "country": " Country - Switzerland",
+        "covid" : " Covid Colour - Green Zone",
+        "cost" : "£100 per night"
+      }
+  ]

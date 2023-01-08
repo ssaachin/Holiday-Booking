@@ -1,0 +1,37 @@
+
+
+[
+    {
+      "id": "1",
+      "text": "Barcelona",
+      "description": "Barcelona is famous for its outstanding football team, stunning architecture, lively nightlife, sandy beaches, and world-class cuisine.",
+      "weather": " Weather - Hot",
+      "country": " Country - Spain",
+      "covid" : " Covid Colour - Red Zone",
+      "cost" : "£88 for a return",
+      "airport": "El Prat Airport (BCN)",
+      "marker": [41.3874, 2.1686]
+    },
+    {
+      "id": "2",
+      "text": "Alicante",
+      "description": "Alicante is known for its expansive public beaches, where you can enjoy sailing, sunbathing, and swimming in the Mediterranean Sea during warmer months.",
+      "weather": " Weather - Hot",
+      "country": " Country - Spain",
+      "covid" : " Covid Colour - Amber Zone",
+      "cost" : "£59 for a return",
+      "airport": "Alicante Airport (ALC)",
+      "marker": [38.291180, -0.569901]
+    },
+    {
+        "id": "3",
+        "text": "Zermatt",
+        "description": "Zermatt is famous for its magnificent long ski runs, with terrain for all skill levels, but it also offers outdoor sports for other seasons.",
+        "weather": " Weather - Cold",
+        "country": " Country - Switzerland",
+        "covid" : " Covid Colour - Green Zone",
+        "cost" : "£100 for a return",
+        "airport": "Lugano Airport (LUG)",
+        "marker": [46.0207, 7.7491]
+      }
+  ]

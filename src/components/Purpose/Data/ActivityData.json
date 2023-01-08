@@ -1,0 +1,39 @@
+
+[
+    {
+      "id": "1",
+      "text": "Surfing",
+      "description": "Whether you are a beginner or an expert, you will experience the thrill of sliding on snow, The thrill you experience while skiing or snowboarding is super addictive.",
+      "image": "./surf.png",
+      "images": "./surfing2.png",
+      "img": "./surfing4.png",
+      "rating": " Difficulty - Medium",
+      "country": " Country - Spain",
+      "covid" : " Covid Colour - Red",
+      "cost" : "£88 per day"
+    },
+    {
+      "id": "2",
+      "text": "Hiking",
+      "description": "Hiking is a long, vigorous walk, usually on trails or footpaths in the countryside. Walking for pleasure developed in Europe during the eighteenth century.",
+      "image": "./hiking.png",
+      "images": "./hiking3.png",
+      "img": "./hiking6.png",
+      "rating": " Difficulty - Easy",
+      "country": " Country - Spain",
+      "covid" : " Covid Colour - Amber",
+      "cost" : "£59 per day"
+    },
+    {
+        "id": "3",
+        "text": "Skiing",
+        "description": "Whether you are a beginner or an expert, you will experience the thrill of sliding on snow, The thrill you experience while skiing or snowboarding is super addictive.",
+        "image": "./skiing.png",
+        "images": "./skiing4.png",
+        "img": "./skiing3.png",
+        "rating": " Difficulty - Hard",
+        "country": " Country - Switzerland",
+        "covid" : " Covid Colour - Green",
+        "cost" : "£100 per day"
+      }
+  ]
